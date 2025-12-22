@@ -1,0 +1,145 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id        Int      @id @default(autoincrement())
+  email     String   @unique
+  username  String   @unique @default("admin") // Default needed for migration of existing rows if any, though we will seed
+  password  String
+  name      String?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Category {
+  id           Int                   @id @default(autoincrement())
+  imagePath    String
+  icon         String?               @default("Box") // Lucide icon name
+  translations CategoryTranslation[]
+  products     Product[]
+  
+  parentId     Int?
+  parent       Category?             @relation("CategoryHierarchy", fields: [parentId], references: [id])
+  children     Category[]            @relation("CategoryHierarchy")
+
+  createdAt    DateTime              @default(now())
+  updatedAt    DateTime              @updatedAt
+}
+
+model CategoryTranslation {
+  id         Int      @id @default(autoincrement())
+  category   Category @relation(fields: [categoryId], references: [id])
+  categoryId Int
+  locale     String   // 'az', 'en', 'ru'
+  name       String
+  slug       String
+
+  @@unique([locale, slug])
+}
+
+model Product {
+  id           Int                  @id @default(autoincrement())
+  category     Category             @relation(fields: [categoryId], references: [id])
+  categoryId   Int
+  code         String               @unique // SKU
+  dimensions   String?
+  weight       String?
+  materialType String?
+  price        String?
+  translations ProductTranslation[]
+  images       ProductImage[]
+  createdAt    DateTime             @default(now())
+  updatedAt    DateTime             @updatedAt
+}
+
+model ProductTranslation {
+  id          Int     @id @default(autoincrement())
+  product     Product @relation(fields: [productId], references: [id])
+  productId   Int
+  locale      String  // 'az', 'en', 'ru'
+  title       String
+  description String
+}
+
+model ProductImage {
+  id        Int     @id @default(autoincrement())
+  product   Product @relation(fields: [productId], references: [id])
+  productId Int
+  imagePath String
+  isMain    Boolean @default(false)
+  sortOrder Int     @default(0)
+}
+
+model Texture {
+  id           Int                  @id @default(autoincrement())
+  imagePath    String?
+  type         String               @default("standard")
+  sortOrder    Int                  @default(0)
+  translations TextureTranslation[]
+  createdAt    DateTime             @default(now())
+  updatedAt    DateTime             @updatedAt
+}
+
+model TextureTranslation {
+  id        Int     @id @default(autoincrement())
+  texture   Texture @relation(fields: [textureId], references: [id], onDelete: Cascade)
+  textureId Int
+  locale    String  // 'az', 'en', 'ru'
+  name      String
+
+  @@unique([textureId, locale])
+}
+
+model HeroSlide {
+  id           Int                    @id @default(autoincrement())
+  imagePath    String
+  sortOrder    Int                    @default(0)
+  translations HeroSlideTranslation[]
+  createdAt    DateTime               @default(now())
+  updatedAt    DateTime               @updatedAt
+}
+
+model HeroSlideTranslation {
+  id          Int       @id @default(autoincrement())
+  slide       HeroSlide @relation(fields: [slideId], references: [id], onDelete: Cascade)
+  slideId     Int
+  locale      String    // 'az', 'en', 'ru'
+  title       String
+  subtitle    String
+
+  @@unique([slideId, locale])
+}
+
+model Project {
+  id           Int                  @id @default(autoincrement())
+  translations ProjectTranslation[]
+  images       ProjectImage[]
+  createdAt    DateTime             @default(now())
+  updatedAt    DateTime             @updatedAt
+}
+
+model ProjectTranslation {
+  id          Int     @id @default(autoincrement())
+  project     Project @relation(fields: [projectId], references: [id], onDelete: Cascade)
+  projectId   Int
+  locale      String  // 'az', 'en', 'ru'
+  title       String
+  description String
+
+  @@unique([projectId, locale])
+}
+
+model ProjectImage {
+  id        Int     @id @default(autoincrement())
+  project   Project @relation(fields: [projectId], references: [id], onDelete: Cascade)
+  projectId Int
+  imagePath String
+  isMain    Boolean @default(false)
+  sortOrder Int     @default(0)
+}

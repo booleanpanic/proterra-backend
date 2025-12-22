@@ -1,0 +1,147 @@
+{
+    "nav": {
+        "home": "Ana Səhifə",
+        "catalog": "İstiqamətlər",
+        "projects": "Layihələr",
+        "downloads": "Yükləmələr",
+        "textures": "Rənglər və Fakturalar",
+        "features": "Xüsusiyyətlər",
+        "about": "Haqqımızda",
+        "contact": "Əlaqə",
+        "catalogDesc": "Memarlıq betonu üzrə tam həllər spektri."
+    },
+    "sections": {
+        "lightweight": {
+            "title": "Yüngül və Davamlı",
+            "desc": "Yüksək zərbəyə davamlılıqla azaldılmış struktur yükü."
+        },
+        "finish": {
+            "title": "Premium Görünüş",
+            "desc": "Hər hansı dizayn üçün hamar, məsaməli və ya teksturalı seçimlər."
+        },
+        "eco": {
+            "title": "Ekoloji Təmiz",
+            "desc": "Daxili və xarici istifadə üçün təhlükəsiz materiallar."
+        },
+        "install": {
+            "title": "Asan Quraşdırma",
+            "desc": "Sürətli və etibarlı montaj üçün nəzərdə tutulmuşdur."
+        }
+    },
+    "projectsPage": {
+        "title": "LAYİHƏLƏRİMİZ",
+        "noProjects": "Hələlik layihə əlavə olunmayıb."
+    },
+    "hero": {
+        "title": "Müasir Memarlıq üçün Beton Həllər",
+        "cta": "Kataloqa Bax"
+    },
+    "categories": {
+        "concrete-panels": "Beton Panellər",
+        "concrete-planters": "Beton Dibçəklər",
+        "concrete-benches": "Beton Oturacaqlar",
+        "large-format-slabs": "İri Formatlı Plitələr",
+        "landscape-sculptures": "Landşaft Heykəlləri",
+        "bollards": "Bollardlar",
+        "street-lights": "Küçə İşıqları",
+        "fire-pits": "Ocaq Zonaları",
+        "fiber-panels": "Fiber Beton Panellər",
+        "relief-panels": "Relyefli Panellər",
+        "perforated-panels": "Perforasiyalı Panellər",
+        "curved-panels": "Əyri Panellər"
+    },
+    "texturesPage": {
+        "title": "Rənglər və Fakturalar",
+        "description": "Beton üzlüklərimizin geniş çeşidini kəşf edin. Hamar, minimalist standart rənglərdən zəngin fakturalı aqlomeratlara və premium cilalanmış terrazzo-ya qədər. Hər bir üzlük davamlılıq və estetik mükəmməllik üçün hazırlanmışdır.",
+        "tabs": {
+            "all": "Bütün Növlər",
+            "standard": "Standart Rənglər",
+            "exposed": "Aqlomerat",
+            "terrazzo": "Terrazzo"
+        },
+        "disclaimer": "* Göstərilən rənglər rəqəmsal təsvirlərdir. Real məhsul cüzi fərqlənə bilər.",
+        "contact": "Bizimlə Əlaqə",
+        "whatsapp": "WhatsApp",
+        "no_image": "Şəkil Yoxdur"
+    },
+    "footer": {
+        "description": "Müasir məkanlar üçün sənaye beton həlləri. Keyfiyyət, davamlılıq və estetika bir arada.",
+        "contact": "Əlaqə",
+        "location": "Bakı ş. Babək pr. 31",
+        "follow": "Bizi İzləyin",
+        "rights": "ProTerra. Bütün hüquqlar qorunur."
+    },
+    "contactPage": {
+        "title": "Bizimlə Əlaqə",
+        "getInTouch": "Bizimlə Əlaqə Saxlayın",
+        "subtitle": "Xüsusi təklif lazımdır və ya texniki suallarınız var? Komandamız sizə kömək etməyə hazırdır.",
+        "visitUs": "Ünvanımız",
+        "address": "Bakı ş. Babək pr. 31",
+        "callUs": "Bizə Zəng Edin",
+        "emailUs": "E-poçt Ünvanımız",
+        "workingHours": "İş Saatları",
+        "schedule": "B.e. - C.: 09:00 - 18:00",
+        "saturday": "Ş.: 10:00 - 15:00"
+    },
+    "factures": {
+        "title": "Faktura Seçimi",
+        "description": "Nəzərə almaq lazımdır ki, məhsullar əl ilə istehsal olunur və səthdəki məsamələrin paylanması, onların sayı və ölçüsü gözlənilməz ola bilər. Sifariş olunan məhsulların xüsusiyyətləri haqqında tam təsəvvür əldə etmək üçün fakturalı səth nümunələrini sifariş etməyi tövsiyə edirik.",
+        "orderSamples": "Nümunələri Sifariş Et",
+        "concreteTextures": "Beton Fakturaları",
+        "smooth": "Hamar Beton",
+        "porous": "Məsaməli Beton"
+    },
+    "featuresPage": {
+        "title": "Betonun Xüsusiyyətləri",
+        "concreteFeatures": {
+            "title": "Betonun Xüsusiyyətləri",
+            "desc": "İstehsalın hər mərhələsində \"ProTerra\" mütəxəssisləri bütün texnoloji reqlamentlərə riayət etməyə çalışırlar. Lakin proseslərin spesifikliyi və fərqli material partiyaları səbəbindən rəng və səth fakturasında uyğunsuzluqlar ola bilər. Bu cür xüsusiyyətlər beton səthinin xarakterinin ayrılmaz hissəsidir."
+        },
+        "pores": {
+            "title": "Məsamələr",
+            "desc": "Beton qarışığının tökülmə prosesinin özünəməxsus xüsusiyyətləri var. Sıxılma zamanı betonda qalan hava sıxışdırılıb çıxarılır və məmulatın səthində müxtəlif ölçülü boşluqlar şəklində qalır. Bu cür xüsusiyyətlər beton məmulatına həmişə dekorativlik və təbiilik qatır. Stolüstü səthlər, pəncərə altlıqları, çanaqların daxili hissələri kimi istifadə olunan səthlər üçün məsamələr sürtülür və standartımıza əsasən səth hamar qalır."
+        },
+        "colorVariation": {
+            "title": "Səth Rənginin Dəyişməsi",
+            "desc": "Müxtəlif doldurucuların istifadəsi və məmulatın strukturunun fərqli sıxlıqla formalaşması səbəbindən beton heç vaxt eyni tonlu olmayacaq. Bunun hesabına hər bir məmulat üçün unikal naxışa malik qeyri-bircins səth yaranır. Daha sıx hissələr bir qayda olaraq daha tünd olur və məmulat islandıqda qradient güclənə bilər."
+        },
+        "aggregate": {
+            "title": "Doldurucunun Görünməsi",
+            "desc": "\"ProTerra\" məmulatları müxtəlif fraksiyalı dolduruculardan və sementdən hazırlanır. Bəzi hallarda doldurucular betonun səthində görünə bilər ki, bu da unikal təbii fakturanın bir hissəsidir."
+        },
+        "textureLines": {
+            "title": "Tökülmə Zamanı Tekstura Xətləri",
+            "desc": "Beton qarışığı qəlibə maye halda tökülərkən tökülmə tekstura xətlərinin yaranması mümkündür. Bir qayda olaraq, bu, əyri və ya hündür şaquli səthlərin tökülməsi zamanı daha çox nəzərə çarpır və betonun daha bir tipik xüsusiyyətidir."
+        },
+        "craquelure": {
+            "title": "Krakelyur (Çatlar)",
+            "desc": "Betonun səthindəki xırda çatlar bərkimə prosesində və bütün istismar müddəti ərzində çox tez-tez rast gəlinir. Onlar məmulatın keyfiyyətinə və ya istismar xüsusiyyətlərinə təsir etmir."
+        },
+        "seams": {
+            "title": "Texnoloji Tikişlər",
+            "desc": "Bəzi məmulatlar üçün iki və daha çox hissədən ibarət sökülə bilən qəliblər tələb olunur. Belə qəlibləri sökərkən tikişdə nəmin daha intensiv buxarlanması nəticəsində səthdə daha boş və qeyri-bircins tekstura yarana bilər."
+        },
+        "protection": {
+            "title": "Qoruyucu Örtük",
+            "desc": "\"ProTerra\" məhsullarının bütün çeşidi mayenin hopmasının və ləkələrin yaranmasının qarşısını almaq üçün qoruyucu tərkiblə örtülür. Buna baxmayaraq, biz mayenin nüfuz etməsindən tam qorunmaya və ya cızıqlara qarşı tam davamlılığa (səthdə iti əşyalardan istifadə edildikdə) zəmanət verə bilmərik. Qoruyucu örtük zədələrdən və turşulu maddələrdən qorumur. Təbii daş və ya ağac kimi, beton da zamanla təbii faktura qazanır və istismar rejimindən asılı olaraq dəyişir."
+        }
+    },
+    "aboutPage": {
+        "title": "ProTerra Haqqında",
+        "history": "ProTerra – Azərbaycanın memarlıq və inşaat sektorunda müasirlik və keyfiyyətin simvoludur. Biz, yerli istehsalın gücünə və potensialına inanaraq, dünya standartlarına tam cavab verən yüksək texnologiyalı memarlıq betonu və fiber-beton məhsulları istehsal edirik. Hər bir məhsulumuzda milli memarlıq ənənələrimizi müasir texnologiyalarla birləşdirərək, ölkəmizin şəhər landşaftının gözəlləşməsinə xidmət edirik. Biz təkcə beton istehsal etmirik, biz gələcəyin Azərbaycanını qururuq.",
+        "missionTitle": "Missiyamız",
+        "mission": "Vətənimizin memarlıq irsinə töhfə vermək, şəhərlərimizin simasını müasir və zövqlü detallarla zənginləşdirmək və 'Made in Azerbaijan' brendini beynəlxalq aləmdə yüksək keyfiyyət rəmzi kimi tanıtmaqdır.",
+        "visionTitle": "Vizyonumuz",
+        "vision": "Ölkəmizin inşaat sektorunda innovasiyaların öncülü olmaq, yerli xammal və zəka ilə yaradılan məhsullarımızla qlobal bazarlara çıxmaq və gələcək nəsillərə qürur duyulacaq, dayanıqlı memarlıq abidələri qoymaqdır.",
+        "valuesTitle": "Dəyərlərimiz",
+        "values": "Milli Dəyərlərə Sadiqlik, Yüksək Keyfiyyət, Daimi İnnovasiya və Vətənpərvərlik. Bizim üçün hər layihə, ölkəmizə olan sevgimizin daşlaşmış təzahürüdür.",
+        "years": "",
+        "market": ""
+    },
+    "homePage": {
+        "viewCatalog": "Kataloqa bax",
+        "viewAllProjects": "Bütün layihələr",
+        "aboutTitle": "ProTerra",
+        "aboutText": "Biz unikal memarlıq formaları, fasad dekoru və interyer elementləri yaradırıq. Məhsullarımız təbii daşın estetikasını müasir betonun davamlılığı ilə birləşdirir."
+    }
+}

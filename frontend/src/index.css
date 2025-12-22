@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+@theme {
+  --color-concrete-light: #F2F2F2;
+  --color-concrete-dark: #1a1a1a;
+  --color-urban-black: #000000;
+
+  --font-sans: 'Inter', sans-serif;
+  --font-display: 'Inter', sans-serif;
+}
+
+body {
+  background-color: white;
+  color: var(--color-urban-black);
+  font-family: var(--font-sans);
+}
+
+/* Global Cursor Styles */
+button,
+a,
+input[type="submit"],
+input[type="button"],
+select,
+[role="button"] {
+  cursor: pointer;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.8s ease-out forwards;
+}

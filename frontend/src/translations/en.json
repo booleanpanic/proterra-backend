@@ -1,0 +1,125 @@
+{
+    "nav": {
+        "home": "Home",
+        "catalog": "Directions",
+        "projects": "Projects",
+        "downloads": "Downloads",
+        "textures": "Colors & Textures",
+        "features": "Features",
+        "about": "About",
+        "contact": "Contact",
+        "catalogDesc": "Complete range of architectural concrete solutions."
+    },
+    "hero": {
+        "title": "Concrete Solutions for Modern Architecture",
+        "cta": "View Catalog"
+    },
+    "categories": {
+        "concrete-panels": "Concrete Panels",
+        "concrete-planters": "Concrete Planters",
+        "concrete-benches": "Concrete Benches",
+        "large-format-slabs": "Large Format Slabs",
+        "landscape-sculptures": "Landscape Sculptures",
+        "bollards": "Bollards",
+        "street-lights": "Street Lights",
+        "fire-pits": "Fire Pits",
+        "fiber-panels": "Fiber Concrete Panels",
+        "relief-panels": "Relief Panels",
+        "perforated-panels": "Perforated Panels",
+        "curved-panels": "Curved Panels"
+    },
+    "texturesPage": {
+        "title": "Colors & Textures",
+        "description": "Discover our versatile range of concrete finishes. From smooth, minimalist standard colors to rich, textured exposed aggregates and premium polished terrazzo. Each finish is crafted for durability and aesthetic excellence.",
+        "tabs": {
+            "all": "All Finishes",
+            "standard": "Standard Colors",
+            "exposed": "Exposed Aggregate",
+            "terrazzo": "Terrazzo"
+        },
+        "disclaimer": "* Colors shown are digital representations. Actual product may vary slightly.",
+        "contact": "Contact Us",
+        "whatsapp": "WhatsApp",
+        "no_image": "No Image"
+    },
+    "footer": {
+        "description": "Industrial concrete solutions for modern spaces. Quality, durability, and aesthetics combined.",
+        "contact": "Contact",
+        "location": "Baku city, Babek ave. 31",
+        "follow": "Follow Us",
+        "rights": "ProTerra. All rights reserved."
+    },
+    "contactPage": {
+        "title": "Contact Us",
+        "getInTouch": "Get in Touch",
+        "subtitle": "Need a custom quote or have technical questions? Our team is ready to assist you.",
+        "visitUs": "Visit Us",
+        "address": "Baku city, Babek ave. 31",
+        "callUs": "Call Us",
+        "emailUs": "Email Us",
+        "workingHours": "Working Hours",
+        "schedule": "Mon - Fri: 09:00 - 18:00",
+        "saturday": "Sat: 10:00 - 15:00"
+    },
+    "factures": {
+        "title": "Selection of Texture",
+        "description": "It is worth noting that the products are handmade and the distribution of caverns (pores) on the surface will be unpredictable, as well as their number and size. We recommend ordering textured surface samples if you need to get the most complete idea of the features of the ordered products.",
+        "orderSamples": "Order Samples",
+        "concreteTextures": "Concrete Textures",
+        "smooth": "Smooth Concrete",
+        "porous": "Porous Concrete"
+    },
+    "featuresPage": {
+        "title": "Features of Concrete",
+        "concreteFeatures": {
+            "title": "Features of Concrete",
+            "desc": "At every stage of production, \"ProTerra\" specialists strive to pay attention to compliance with all technological regulations. However, due to the specifics of processes and different batches of materials, mismatches in color and surface texture are possible. Such features are an integral part of the character of the concrete surface."
+        },
+        "pores": {
+            "title": "Pores",
+            "desc": "The process of pouring concrete mixture has its own peculiarities. Air remaining in the concrete is displaced during compaction and remains on the surface of the product in the form of caverns of various sizes. Such features always add decorativeness and naturalness to the concrete product. For surfaces in use, such as countertops, windowsills, inner bowls of washbasins, pores are rubbed down and according to our standard, the surface remains smooth."
+        },
+        "colorVariation": {
+            "title": "Surface Color Variation",
+            "desc": "Concrete will never be monochromatic due to the use of various filters and the formation of the product structure with different densities. Due to this, a non-uniform surface with a unique pattern for each product is created. Denser areas are usually darker and the gradient may intensify when the product gets wet."
+        },
+        "aggregate": {
+            "title": "Aggregate Visibility",
+            "desc": "ProTerra products are made from aggregates of various fractions and cement. In some cases, fillers may be visible on the concrete surface, which is part of the unique natural texture."
+        },
+        "textureLines": {
+            "title": "Texture Lines During Casting",
+            "desc": "When pouring concrete mixture in a liquid state into a mold, the appearance of texture casting lines is possible. Typically, this is more noticeable when pouring curved or high vertical surfaces and is another typical characteristic of concrete."
+        },
+        "craquelure": {
+            "title": "Craquelure",
+            "desc": "Small cracks on the concrete surface are very common during the hardening process and throughout the entire service life. They do not affect the quality or operational characteristics of the product."
+        },
+        "seams": {
+            "title": "Technological Seams",
+            "desc": "Some products require collapsible molds consisting of two or more parts. When stripping such forms, a looser and more non-uniform texture may appear on the surface at the seam, as moisture from the mixture at the seam may evaporate more intensively."
+        },
+        "protection": {
+            "title": "Protective Coating",
+            "desc": "The entire \"ProTerra\" product line comes coated with a protective compound to prevent liquid absorption and staining, however, we cannot guarantee complete protection against liquid penetration or full scratch resistance (in case of using sharp objects directly on the surface). Similarly to natural stone or wood, concrete acquires a natural texture over time and evolves depending on the operating mode."
+        }
+    },
+    "aboutPage": {
+        "title": "About ProTerra",
+        "history": "ProTerra is a symbol of modernity and quality in the architectural and construction sector of Azerbaijan. Believing in the power and potential of local production, we create high-tech architectural concrete products that fully meet world standards. Combining national architectural traditions with modern technologies, we serve to beautify the urban landscape of our country. We don't just produce concrete; we are building the Azerbaijan of the future.",
+        "missionTitle": "Our Mission",
+        "mission": "To contribute to the architectural heritage of our Homeland, enrich the image of our cities with modern and aesthetic details, and promote the 'Made in Azerbaijan' brand on the international arena as a symbol of the highest quality.",
+        "visionTitle": "Our Vision",
+        "vision": "To be pioneers of innovation in the country's construction sector, enter global markets with products created through local resources and intellect, and leave future generations durable architectural monuments to be proud of.",
+        "valuesTitle": "Our Values",
+        "values": "Commitment to National Values, High Quality, Constant Innovation, and Patriotism. For us, every project is the embodiment of love for our country in stone.",
+        "years": "",
+        "market": ""
+    },
+    "homePage": {
+        "viewCatalog": "View Catalog",
+        "viewAllProjects": "View All Projects",
+        "aboutTitle": "ProTerra",
+        "aboutText": "We create unique architectural forms, facade decor, and interior elements. Our products combine the aesthetics of natural stone with the durability of modern concrete."
+    }
+}
