@@ -1,0 +1,1713 @@
+{
+  "categories": [
+    {
+      "id": 35,
+      "imagePath": "/uploads/1766381653376-327219011.png",
+      "icon": "Box",
+      "parentId": null,
+      "createdAt": "2025-12-22T04:40:23.456Z",
+      "updatedAt": "2025-12-22T05:34:15.597Z",
+      "translations": [
+        {
+          "id": 172,
+          "categoryId": 35,
+          "locale": "en",
+          "name": "Concrete Panels",
+          "slug": "concrete-panels"
+        },
+        {
+          "id": 173,
+          "categoryId": 35,
+          "locale": "ru",
+          "name": "Панели из бетона",
+          "slug": "concrete-panels"
+        },
+        {
+          "id": 174,
+          "categoryId": 35,
+          "locale": "az",
+          "name": "Beton Panellər",
+          "slug": "concrete-panels-az"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "imagePath": "/images/categories/panels.jpg",
+      "icon": "Box",
+      "parentId": 35,
+      "createdAt": "2025-12-22T04:40:23.466Z",
+      "updatedAt": "2025-12-22T04:40:23.466Z",
+      "translations": [
+        {
+          "id": 106,
+          "categoryId": 36,
+          "locale": "en",
+          "name": "Fiber Concrete Panels",
+          "slug": "fiber-panels"
+        },
+        {
+          "id": 107,
+          "categoryId": 36,
+          "locale": "ru",
+          "name": "Панели из фибробетона",
+          "slug": "fiber-panels"
+        },
+        {
+          "id": 108,
+          "categoryId": 36,
+          "locale": "az",
+          "name": "Fiber Beton Panellər",
+          "slug": "fiber-panels-az"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "imagePath": "/images/categories/panels.jpg",
+      "icon": "Box",
+      "parentId": 35,
+      "createdAt": "2025-12-22T04:40:23.476Z",
+      "updatedAt": "2025-12-22T04:40:23.476Z",
+      "translations": [
+        {
+          "id": 109,
+          "categoryId": 37,
+          "locale": "en",
+          "name": "Relief Panels",
+          "slug": "relief-panels"
+        },
+        {
+          "id": 110,
+          "categoryId": 37,
+          "locale": "ru",
+          "name": "Рельефные панели",
+          "slug": "relief-panels"
+        },
+        {
+          "id": 111,
+          "categoryId": 37,
+          "locale": "az",
+          "name": "Relyefli Panellər",
+          "slug": "relief-panels-az"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "imagePath": "/images/categories/panels.jpg",
+      "icon": "Box",
+      "parentId": 35,
+      "createdAt": "2025-12-22T04:40:23.485Z",
+      "updatedAt": "2025-12-22T04:40:23.485Z",
+      "translations": [
+        {
+          "id": 112,
+          "categoryId": 38,
+          "locale": "en",
+          "name": "Perforated Panels",
+          "slug": "perforated-panels"
+        },
+        {
+          "id": 113,
+          "categoryId": 38,
+          "locale": "ru",
+          "name": "Перфорированные панели",
+          "slug": "perforated-panels"
+        },
+        {
+          "id": 114,
+          "categoryId": 38,
+          "locale": "az",
+          "name": "Perforasiyalı Panellər",
+          "slug": "perforated-panels-az"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "imagePath": "/images/categories/panels.jpg",
+      "icon": "Box",
+      "parentId": 35,
+      "createdAt": "2025-12-22T04:40:23.492Z",
+      "updatedAt": "2025-12-22T04:40:23.492Z",
+      "translations": [
+        {
+          "id": 115,
+          "categoryId": 39,
+          "locale": "en",
+          "name": "Curved Panels",
+          "slug": "curved-panels"
+        },
+        {
+          "id": 116,
+          "categoryId": 39,
+          "locale": "ru",
+          "name": "Изогнутые панели",
+          "slug": "curved-panels"
+        },
+        {
+          "id": 117,
+          "categoryId": 39,
+          "locale": "az",
+          "name": "Əyri Panellər",
+          "slug": "curved-panels-az"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "imagePath": "/uploads/1766382150489-704262879.png",
+      "icon": "Box",
+      "parentId": null,
+      "createdAt": "2025-12-22T04:40:23.510Z",
+      "updatedAt": "2025-12-22T05:42:32.341Z",
+      "translations": [
+        {
+          "id": 178,
+          "categoryId": 40,
+          "locale": "en",
+          "name": "Concrete Planters",
+          "slug": "concrete-planters"
+        },
+        {
+          "id": 179,
+          "categoryId": 40,
+          "locale": "ru",
+          "name": "Кашпо из бетона",
+          "slug": "concrete-planters"
+        },
+        {
+          "id": 180,
+          "categoryId": 40,
+          "locale": "az",
+          "name": "Beton Dibçəklər",
+          "slug": "concrete-planters-az"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "imagePath": "/uploads/1766382335122-406038531.png",
+      "icon": "Box",
+      "parentId": null,
+      "createdAt": "2025-12-22T04:40:23.527Z",
+      "updatedAt": "2025-12-22T05:45:36.781Z",
+      "translations": [
+        {
+          "id": 181,
+          "categoryId": 41,
+          "locale": "en",
+          "name": "Concrete Benches",
+          "slug": "concrete-benches"
+        },
+        {
+          "id": 182,
+          "categoryId": 41,
+          "locale": "ru",
+          "name": "Скамейки из бетона",
+          "slug": "concrete-benches"
+        },
+        {
+          "id": 183,
+          "categoryId": 41,
+          "locale": "az",
+          "name": "Beton Oturacaqlar",
+          "slug": "concrete-benches-az"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "imagePath": "/uploads/1766382434758-445938186.png",
+      "icon": "Box",
+      "parentId": null,
+      "createdAt": "2025-12-22T04:40:23.541Z",
+      "updatedAt": "2025-12-22T05:47:16.611Z",
+      "translations": [
+        {
+          "id": 184,
+          "categoryId": 42,
+          "locale": "en",
+          "name": "Large Format Concrete Slabs",
+          "slug": "large-format-slabs"
+        },
+        {
+          "id": 185,
+          "categoryId": 42,
+          "locale": "ru",
+          "name": "Крупноформатные плиты из бетона",
+          "slug": "large-format-slabs"
+        },
+        {
+          "id": 186,
+          "categoryId": 42,
+          "locale": "az",
+          "name": "İri Formatlı Beton Plitələr",
+          "slug": "large-format-slabs-az"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "imagePath": "/uploads/1766382538708-811379296.png",
+      "icon": "Box",
+      "parentId": null,
+      "createdAt": "2025-12-22T04:40:23.562Z",
+      "updatedAt": "2025-12-22T05:49:00.404Z",
+      "translations": [
+        {
+          "id": 187,
+          "categoryId": 43,
+          "locale": "en",
+          "name": "Landscape Concrete Sculptures",
+          "slug": "landscape-sculptures"
+        },
+        {
+          "id": 188,
+          "categoryId": 43,
+          "locale": "ru",
+          "name": "Ландшафтные скульптуры из бетона",
+          "slug": "landscape-sculptures"
+        },
+        {
+          "id": 189,
+          "categoryId": 43,
+          "locale": "az",
+          "name": "Landşaft Beton Heykəlləri",
+          "slug": "landscape-sculptures-az"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "imagePath": "/uploads/1766382621589-397895675.png",
+      "icon": "Box",
+      "parentId": null,
+      "createdAt": "2025-12-22T04:40:23.577Z",
+      "updatedAt": "2025-12-22T05:50:23.634Z",
+      "translations": [
+        {
+          "id": 190,
+          "categoryId": 44,
+          "locale": "en",
+          "name": "Concrete Bollards",
+          "slug": "bollards"
+        },
+        {
+          "id": 191,
+          "categoryId": 44,
+          "locale": "ru",
+          "name": "Болларды из бетона",
+          "slug": "bollards"
+        },
+        {
+          "id": 192,
+          "categoryId": 44,
+          "locale": "az",
+          "name": "Beton Bollardlar",
+          "slug": "bollards-az"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "imagePath": "/uploads/1766382714216-152056521.png",
+      "icon": "Box",
+      "parentId": null,
+      "createdAt": "2025-12-22T04:40:23.598Z",
+      "updatedAt": "2025-12-22T05:51:56.051Z",
+      "translations": [
+        {
+          "id": 193,
+          "categoryId": 45,
+          "locale": "en",
+          "name": "Street Lights",
+          "slug": "street-lights"
+        },
+        {
+          "id": 194,
+          "categoryId": 45,
+          "locale": "ru",
+          "name": "Уличные светильники",
+          "slug": "street-lights"
+        },
+        {
+          "id": 195,
+          "categoryId": 45,
+          "locale": "az",
+          "name": "Küçə İşıqları",
+          "slug": "street-lights-az"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "imagePath": "/uploads/1766382824326-853786302.png",
+      "icon": "Box",
+      "parentId": null,
+      "createdAt": "2025-12-22T04:40:23.612Z",
+      "updatedAt": "2025-12-22T05:53:45.730Z",
+      "translations": [
+        {
+          "id": 196,
+          "categoryId": 46,
+          "locale": "en",
+          "name": "Concrete Fire Pits",
+          "slug": "fire-pits"
+        },
+        {
+          "id": 197,
+          "categoryId": 46,
+          "locale": "ru",
+          "name": "Зоны кострища из бетона",
+          "slug": "fire-pits"
+        },
+        {
+          "id": 198,
+          "categoryId": 46,
+          "locale": "az",
+          "name": "Beton Ocaq Zonaları",
+          "slug": "fire-pits-az"
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 26,
+      "categoryId": 35,
+      "code": "CODE-17",
+      "dimensions": "L1000 / B500 / H450 mm",
+      "weight": "120 kg",
+      "materialType": "High-Performance Concrete",
+      "price": null,
+      "createdAt": "2025-12-22T04:40:23.499Z",
+      "updatedAt": "2025-12-22T04:40:23.499Z",
+      "translations": [
+        {
+          "id": 76,
+          "productId": 26,
+          "locale": "en",
+          "title": "Concrete Panels Sample",
+          "description": "Premium concrete panels for modern spaces."
+        },
+        {
+          "id": 77,
+          "productId": 26,
+          "locale": "ru",
+          "title": "Панели из бетона Образец",
+          "description": "Премиальный бетон для современных пространств."
+        },
+        {
+          "id": 78,
+          "productId": 26,
+          "locale": "az",
+          "title": "Beton Panellər Nümunə",
+          "description": "Müasir məkanlar üçün premium beton."
+        }
+      ],
+      "images": [
+        {
+          "id": 26,
+          "productId": 26,
+          "imagePath": "https://placehold.co/600x600/e2e2e2/1a1a1a?text=Product",
+          "isMain": true,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "categoryId": 40,
+      "code": "CODE-993",
+      "dimensions": "L1000 / B500 / H450 mm",
+      "weight": "120 kg",
+      "materialType": "High-Performance Concrete",
+      "price": null,
+      "createdAt": "2025-12-22T04:40:23.519Z",
+      "updatedAt": "2025-12-22T07:17:13.626Z",
+      "translations": [
+        {
+          "id": 112,
+          "productId": 27,
+          "locale": "en",
+          "title": "Verona",
+          "description": "VERONA — the shape of the flower pots in this series consists of elegant, rounded lines. These are used in restaurants and beauty salons. The Proterra collection has everything you need for the harmonious organization of urban spaces: comfortable ergonomic benches, trash bins, traffic bollards, and planters for flowers and trees."
+        },
+        {
+          "id": 113,
+          "productId": 27,
+          "locale": "ru",
+          "title": "Verona",
+          "description": "VERONA — форма цветочных горшков этой серии состоит из изящных, закругленных линий. Они используются в ресторанах и салонах красоты. В коллекции Proterra есть всё необходимое для гармоничной организации городского пространства: удобные эргономичные скамейки, мусорные урны, ограничители движения, а также кашпо для цветов и деревьев."
+        },
+        {
+          "id": 114,
+          "productId": 27,
+          "locale": "az",
+          "title": "Verona",
+          "description": "Müasir VERONA - Seriyasındakı çiçək qabının\nforması zərif, yuvarlaqlaşdırılmış\nxətlərdən ibarətdir. Bunlar restoranlarda,\ngözəllik salonlarında istifadə olunur.\nŞəhər məkanının ahəngdar təşkili üçün\nProterra kolleksiyasında sizə lazım olan\nhər şey var: rahat erqonomik skamyalar,\nzibil qutuları, hərəkət məhdud-\nlaşdırıcıları, çiçəklər və ağaclar üçün\nçiçək qabları.üçün premium beton."
+        }
+      ],
+      "images": [
+        {
+          "id": 37,
+          "productId": 27,
+          "imagePath": "/uploads/1766387735707-846243925.png",
+          "isMain": false,
+          "sortOrder": 0
+        },
+        {
+          "id": 38,
+          "productId": 27,
+          "imagePath": "/uploads/1766387830579-865783388.png",
+          "isMain": false,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "categoryId": 41,
+      "code": "CODE-312",
+      "dimensions": "L1000 / B500 / H450 mm",
+      "weight": "120 kg",
+      "materialType": "High-Performance Concrete",
+      "price": null,
+      "createdAt": "2025-12-22T04:40:23.534Z",
+      "updatedAt": "2025-12-22T04:40:23.534Z",
+      "translations": [
+        {
+          "id": 82,
+          "productId": 28,
+          "locale": "en",
+          "title": "Concrete Benches Sample",
+          "description": "Premium concrete benches for modern spaces."
+        },
+        {
+          "id": 83,
+          "productId": 28,
+          "locale": "ru",
+          "title": "Скамейки из бетона Образец",
+          "description": "Премиальный бетон для современных пространств."
+        },
+        {
+          "id": 84,
+          "productId": 28,
+          "locale": "az",
+          "title": "Beton Oturacaqlar Nümunə",
+          "description": "Müasir məkanlar üçün premium beton."
+        }
+      ],
+      "images": [
+        {
+          "id": 28,
+          "productId": 28,
+          "imagePath": "https://placehold.co/600x600/e2e2e2/1a1a1a?text=Product",
+          "isMain": true,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "categoryId": 42,
+      "code": "CODE-749",
+      "dimensions": "L1000 / B500 / H450 mm",
+      "weight": "120 kg",
+      "materialType": "High-Performance Concrete",
+      "price": null,
+      "createdAt": "2025-12-22T04:40:23.552Z",
+      "updatedAt": "2025-12-22T04:40:23.552Z",
+      "translations": [
+        {
+          "id": 85,
+          "productId": 29,
+          "locale": "en",
+          "title": "Large Format Concrete Slabs Sample",
+          "description": "Premium large format concrete slabs for modern spaces."
+        },
+        {
+          "id": 86,
+          "productId": 29,
+          "locale": "ru",
+          "title": "Крупноформатные плиты из бетона Образец",
+          "description": "Премиальный бетон для современных пространств."
+        },
+        {
+          "id": 87,
+          "productId": 29,
+          "locale": "az",
+          "title": "İri Formatlı Beton Plitələr Nümunə",
+          "description": "Müasir məkanlar üçün premium beton."
+        }
+      ],
+      "images": [
+        {
+          "id": 29,
+          "productId": 29,
+          "imagePath": "https://placehold.co/600x600/e2e2e2/1a1a1a?text=Product",
+          "isMain": true,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "categoryId": 43,
+      "code": "CODE-276",
+      "dimensions": "L1000 / B500 / H450 mm",
+      "weight": "120 kg",
+      "materialType": "High-Performance Concrete",
+      "price": null,
+      "createdAt": "2025-12-22T04:40:23.570Z",
+      "updatedAt": "2025-12-22T04:40:23.570Z",
+      "translations": [
+        {
+          "id": 88,
+          "productId": 30,
+          "locale": "en",
+          "title": "Landscape Concrete Sculptures Sample",
+          "description": "Premium landscape concrete sculptures for modern spaces."
+        },
+        {
+          "id": 89,
+          "productId": 30,
+          "locale": "ru",
+          "title": "Ландшафтные скульптуры из бетона Образец",
+          "description": "Премиальный бетон для современных пространств."
+        },
+        {
+          "id": 90,
+          "productId": 30,
+          "locale": "az",
+          "title": "Landşaft Beton Heykəlləri Nümunə",
+          "description": "Müasir məkanlar üçün premium beton."
+        }
+      ],
+      "images": [
+        {
+          "id": 30,
+          "productId": 30,
+          "imagePath": "https://placehold.co/600x600/e2e2e2/1a1a1a?text=Product",
+          "isMain": true,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "categoryId": 44,
+      "code": "CODE-592",
+      "dimensions": "L1000 / B500 / H450 mm",
+      "weight": "120 kg",
+      "materialType": "High-Performance Concrete",
+      "price": null,
+      "createdAt": "2025-12-22T04:40:23.588Z",
+      "updatedAt": "2025-12-22T04:40:23.588Z",
+      "translations": [
+        {
+          "id": 91,
+          "productId": 31,
+          "locale": "en",
+          "title": "Concrete Bollards Sample",
+          "description": "Premium concrete bollards for modern spaces."
+        },
+        {
+          "id": 92,
+          "productId": 31,
+          "locale": "ru",
+          "title": "Болларды из бетона Образец",
+          "description": "Премиальный бетон для современных пространств."
+        },
+        {
+          "id": 93,
+          "productId": 31,
+          "locale": "az",
+          "title": "Beton Bollardlar Nümunə",
+          "description": "Müasir məkanlar üçün premium beton."
+        }
+      ],
+      "images": [
+        {
+          "id": 31,
+          "productId": 31,
+          "imagePath": "https://placehold.co/600x600/e2e2e2/1a1a1a?text=Product",
+          "isMain": true,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "categoryId": 45,
+      "code": "CODE-621",
+      "dimensions": "L1000 / B500 / H450 mm",
+      "weight": "120 kg",
+      "materialType": "High-Performance Concrete",
+      "price": null,
+      "createdAt": "2025-12-22T04:40:23.606Z",
+      "updatedAt": "2025-12-22T04:40:23.606Z",
+      "translations": [
+        {
+          "id": 94,
+          "productId": 32,
+          "locale": "en",
+          "title": "Street Lights Sample",
+          "description": "Premium street lights for modern spaces."
+        },
+        {
+          "id": 95,
+          "productId": 32,
+          "locale": "ru",
+          "title": "Уличные светильники Образец",
+          "description": "Премиальный бетон для современных пространств."
+        },
+        {
+          "id": 96,
+          "productId": 32,
+          "locale": "az",
+          "title": "Küçə İşıqları Nümunə",
+          "description": "Müasir məkanlar üçün premium beton."
+        }
+      ],
+      "images": [
+        {
+          "id": 32,
+          "productId": 32,
+          "imagePath": "https://placehold.co/600x600/e2e2e2/1a1a1a?text=Product",
+          "isMain": true,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "categoryId": 46,
+      "code": "CODE-560",
+      "dimensions": "L1000 / B500 / H450 mm",
+      "weight": "120 kg",
+      "materialType": "High-Performance Concrete",
+      "price": null,
+      "createdAt": "2025-12-22T04:40:23.623Z",
+      "updatedAt": "2025-12-22T04:40:23.623Z",
+      "translations": [
+        {
+          "id": 97,
+          "productId": 33,
+          "locale": "en",
+          "title": "Concrete Fire Pits Sample",
+          "description": "Premium concrete fire pits for modern spaces."
+        },
+        {
+          "id": 98,
+          "productId": 33,
+          "locale": "ru",
+          "title": "Зоны кострища из бетона Образец",
+          "description": "Премиальный бетон для современных пространств."
+        },
+        {
+          "id": 99,
+          "productId": 33,
+          "locale": "az",
+          "title": "Beton Ocaq Zonaları Nümunə",
+          "description": "Müasir məkanlar üçün premium beton."
+        }
+      ],
+      "images": [
+        {
+          "id": 33,
+          "productId": 33,
+          "imagePath": "https://placehold.co/600x600/e2e2e2/1a1a1a?text=Product",
+          "isMain": true,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "categoryId": 40,
+      "code": "test",
+      "dimensions": "test",
+      "weight": "test",
+      "materialType": "test",
+      "price": "200 AZN",
+      "createdAt": "2025-12-22T07:11:19.085Z",
+      "updatedAt": "2025-12-22T07:40:16.665Z",
+      "translations": [
+        {
+          "id": 148,
+          "productId": 34,
+          "locale": "en",
+          "title": "Galactus",
+          "description": "GALACTUS — this form serves simultaneously as a landscape element, a standalone art object, and seating for public spaces. There is an opening in the center for planting or for adding additional functions to the product.\n\nConcrete products add beauty to both urban architecture and private landscapes. Thanks to their natural stone surface, they are durable, resistant to dirt and dust, maintenance-free, and serve for decades."
+        },
+        {
+          "id": 149,
+          "productId": 34,
+          "locale": "ru",
+          "title": "Galactus",
+          "description": "GALACTUS — эта форма одновременно служит элементом ландшафта, самостоятельным арт-объектом и местом для сидения в общественных пространствах. В центре предусмотрено отверстие для посадки растений или придания изделию дополнительных функций.\n\nБетонные изделия украшают как городскую архитектуру, так и ландшафт частных территорий. Благодаря поверхности из натурального камня они долговечны, устойчивы к грязи и пыли, не требуют ремонта и служат десятилетиями."
+        },
+        {
+          "id": 150,
+          "productId": 34,
+          "locale": "az",
+          "title": "Galactus",
+          "description": "GALACTUS- forması eyni zamanda landşaft\nelementi, müstəqil sənət obyekti və ictimai\nyerlərdə oturacaq kimi xidmət edir. Ortada\nbitki əkmək və ya məhsula əlavə funksiyalar\nvermək üçün bir boşluq var.\nBeton məmulatları həm şəhər memerlığına,\nhəm də şəxsi ərazinin mənzərəsinə gözəllik\nqatır. Təbii daş səthi sayəsində onlar davam-\nlıdır, kir və toz onlara yapışmır, təmir tələb\netmir və onilliklər ərzində xidmət göstərir."
+        }
+      ],
+      "images": [
+        {
+          "id": 50,
+          "productId": 34,
+          "imagePath": "/uploads/1766387614245-448912508.png",
+          "isMain": true,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "categoryId": 36,
+      "code": "TEST-36",
+      "dimensions": "100x100",
+      "weight": "10kg",
+      "materialType": "Concrete",
+      "price": "150 AZN",
+      "createdAt": "2025-12-22T07:32:29.548Z",
+      "updatedAt": "2025-12-22T07:32:29.548Z",
+      "translations": [
+        {
+          "id": 115,
+          "productId": 35,
+          "locale": "az",
+          "title": "Test Məhsul - Fiber Beton Panellər",
+          "description": "Bu bir test məhsuludur."
+        },
+        {
+          "id": 116,
+          "productId": 35,
+          "locale": "en",
+          "title": "Test Product - Fiber Beton Panellər",
+          "description": "This is a test product."
+        },
+        {
+          "id": 117,
+          "productId": 35,
+          "locale": "ru",
+          "title": "Тестовый продукт - Fiber Beton Panellər",
+          "description": "Это тестовый продукт."
+        }
+      ],
+      "images": [
+        {
+          "id": 39,
+          "productId": 35,
+          "imagePath": "/uploads/placeholder.jpg",
+          "isMain": true,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "categoryId": 37,
+      "code": "TEST-37",
+      "dimensions": "100x100",
+      "weight": "10kg",
+      "materialType": "Concrete",
+      "price": "150 AZN",
+      "createdAt": "2025-12-22T07:32:29.563Z",
+      "updatedAt": "2025-12-22T07:39:10.740Z",
+      "translations": [
+        {
+          "id": 142,
+          "productId": 36,
+          "locale": "en",
+          "title": "Test Product - Relyefli Panellər",
+          "description": "This is a test product."
+        },
+        {
+          "id": 143,
+          "productId": 36,
+          "locale": "ru",
+          "title": "Тестовый продукт - Relyefli Panellər",
+          "description": "Это тестовый продукт."
+        },
+        {
+          "id": 144,
+          "productId": 36,
+          "locale": "az",
+          "title": "Test Məhsul - Relyefli Panellər",
+          "description": "Bu bir test məhsuludur."
+        }
+      ],
+      "images": [
+        {
+          "id": 48,
+          "productId": 36,
+          "imagePath": "/uploads/placeholder.jpg",
+          "isMain": true,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "categoryId": 38,
+      "code": "TEST-38",
+      "dimensions": "100x100",
+      "weight": "10kg",
+      "materialType": "Concrete",
+      "price": "150 AZN",
+      "createdAt": "2025-12-22T07:32:29.572Z",
+      "updatedAt": "2025-12-22T07:32:29.572Z",
+      "translations": [
+        {
+          "id": 121,
+          "productId": 37,
+          "locale": "az",
+          "title": "Test Məhsul - Perforasiyalı Panellər",
+          "description": "Bu bir test məhsuludur."
+        },
+        {
+          "id": 122,
+          "productId": 37,
+          "locale": "en",
+          "title": "Test Product - Perforasiyalı Panellər",
+          "description": "This is a test product."
+        },
+        {
+          "id": 123,
+          "productId": 37,
+          "locale": "ru",
+          "title": "Тестовый продукт - Perforasiyalı Panellər",
+          "description": "Это тестовый продукт."
+        }
+      ],
+      "images": [
+        {
+          "id": 41,
+          "productId": 37,
+          "imagePath": "/uploads/placeholder.jpg",
+          "isMain": true,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "categoryId": 39,
+      "code": "TEST-39",
+      "dimensions": "100x100",
+      "weight": "10kg",
+      "materialType": "Concrete",
+      "price": "150 AZN",
+      "createdAt": "2025-12-22T07:32:29.581Z",
+      "updatedAt": "2025-12-22T07:32:29.581Z",
+      "translations": [
+        {
+          "id": 124,
+          "productId": 38,
+          "locale": "az",
+          "title": "Test Məhsul - Əyri Panellər",
+          "description": "Bu bir test məhsuludur."
+        },
+        {
+          "id": 125,
+          "productId": 38,
+          "locale": "en",
+          "title": "Test Product - Əyri Panellər",
+          "description": "This is a test product."
+        },
+        {
+          "id": 126,
+          "productId": 38,
+          "locale": "ru",
+          "title": "Тестовый продукт - Əyri Panellər",
+          "description": "Это тестовый продукт."
+        }
+      ],
+      "images": [
+        {
+          "id": 42,
+          "productId": 38,
+          "imagePath": "/uploads/placeholder.jpg",
+          "isMain": true,
+          "sortOrder": 0
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 2,
+      "email": "admin@proterra.az",
+      "username": "proterra_admin",
+      "password": "$2b$10$.dy5JcoqBZcrFuIH.4lm5OmxokjVApeMzghfMZ1m67glvN0A.A6Di",
+      "name": "Super Admin",
+      "createdAt": "2025-12-22T04:40:23.448Z",
+      "updatedAt": "2025-12-22T04:40:23.448Z"
+    }
+  ],
+  "textures": [
+    {
+      "id": 1,
+      "imagePath": "/uploads/1766390490083-955074610.png",
+      "type": "standard",
+      "sortOrder": 0,
+      "createdAt": "2025-12-22T07:56:35.715Z",
+      "updatedAt": "2025-12-22T08:01:32.296Z",
+      "translations": [
+        {
+          "id": 3,
+          "textureId": 1,
+          "locale": "az",
+          "name": "Ağ"
+        },
+        {
+          "id": 2,
+          "textureId": 1,
+          "locale": "en",
+          "name": "White"
+        },
+        {
+          "id": 1,
+          "textureId": 1,
+          "locale": "ru",
+          "name": "Белый"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "imagePath": "/uploads/1766390513275-478374093.png",
+      "type": "standard",
+      "sortOrder": 0,
+      "createdAt": "2025-12-22T07:56:35.731Z",
+      "updatedAt": "2025-12-22T08:01:54.839Z",
+      "translations": [
+        {
+          "id": 6,
+          "textureId": 2,
+          "locale": "az",
+          "name": "Kül"
+        },
+        {
+          "id": 5,
+          "textureId": 2,
+          "locale": "en",
+          "name": "Ash"
+        },
+        {
+          "id": 4,
+          "textureId": 2,
+          "locale": "ru",
+          "name": "Пепел"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "imagePath": "/uploads/1766390523021-316266521.png",
+      "type": "standard",
+      "sortOrder": 0,
+      "createdAt": "2025-12-22T07:56:35.738Z",
+      "updatedAt": "2025-12-22T08:02:04.414Z",
+      "translations": [
+        {
+          "id": 9,
+          "textureId": 3,
+          "locale": "az",
+          "name": "Fil Dişi"
+        },
+        {
+          "id": 8,
+          "textureId": 3,
+          "locale": "en",
+          "name": "Bone / Ivory"
+        },
+        {
+          "id": 7,
+          "textureId": 3,
+          "locale": "ru",
+          "name": "Кость"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "imagePath": "/uploads/1766390531475-68229822.png",
+      "type": "standard",
+      "sortOrder": 0,
+      "createdAt": "2025-12-22T07:56:35.748Z",
+      "updatedAt": "2025-12-22T08:02:12.802Z",
+      "translations": [
+        {
+          "id": 12,
+          "textureId": 4,
+          "locale": "az",
+          "name": "Daş"
+        },
+        {
+          "id": 11,
+          "textureId": 4,
+          "locale": "en",
+          "name": "Stone"
+        },
+        {
+          "id": 10,
+          "textureId": 4,
+          "locale": "ru",
+          "name": "Камень"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "imagePath": "/uploads/1766390539321-655259359.png",
+      "type": "standard",
+      "sortOrder": 0,
+      "createdAt": "2025-12-22T07:56:35.762Z",
+      "updatedAt": "2025-12-22T08:02:20.679Z",
+      "translations": [
+        {
+          "id": 15,
+          "textureId": 5,
+          "locale": "az",
+          "name": "Boz"
+        },
+        {
+          "id": 14,
+          "textureId": 5,
+          "locale": "en",
+          "name": "Grey"
+        },
+        {
+          "id": 13,
+          "textureId": 5,
+          "locale": "ru",
+          "name": "Серый"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "imagePath": "/uploads/1766390545588-632317196.png",
+      "type": "standard",
+      "sortOrder": 0,
+      "createdAt": "2025-12-22T07:56:35.773Z",
+      "updatedAt": "2025-12-22T08:02:26.720Z",
+      "translations": [
+        {
+          "id": 18,
+          "textureId": 6,
+          "locale": "az",
+          "name": "Sink"
+        },
+        {
+          "id": 17,
+          "textureId": 6,
+          "locale": "en",
+          "name": "Zinc"
+        },
+        {
+          "id": 16,
+          "textureId": 6,
+          "locale": "ru",
+          "name": "Цинк"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "imagePath": "/uploads/1766390561311-601351931.png",
+      "type": "standard",
+      "sortOrder": 0,
+      "createdAt": "2025-12-22T07:56:35.782Z",
+      "updatedAt": "2025-12-22T08:02:42.565Z",
+      "translations": [
+        {
+          "id": 21,
+          "textureId": 7,
+          "locale": "az",
+          "name": "Qrafit"
+        },
+        {
+          "id": 20,
+          "textureId": 7,
+          "locale": "en",
+          "name": "Graphite"
+        },
+        {
+          "id": 19,
+          "textureId": 7,
+          "locale": "ru",
+          "name": "Графит"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "imagePath": "/uploads/1766390567758-129051339.png",
+      "type": "standard",
+      "sortOrder": 0,
+      "createdAt": "2025-12-22T07:56:35.790Z",
+      "updatedAt": "2025-12-22T08:02:48.888Z",
+      "translations": [
+        {
+          "id": 24,
+          "textureId": 8,
+          "locale": "az",
+          "name": "Qara"
+        },
+        {
+          "id": 23,
+          "textureId": 8,
+          "locale": "en",
+          "name": "Black"
+        },
+        {
+          "id": 22,
+          "textureId": 8,
+          "locale": "ru",
+          "name": "Чёрный"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "imagePath": "/uploads/1766390580686-343193881.png",
+      "type": "standard",
+      "sortOrder": 0,
+      "createdAt": "2025-12-22T07:56:35.800Z",
+      "updatedAt": "2025-12-22T08:03:01.821Z",
+      "translations": [
+        {
+          "id": 27,
+          "textureId": 9,
+          "locale": "az",
+          "name": "Mavi"
+        },
+        {
+          "id": 26,
+          "textureId": 9,
+          "locale": "en",
+          "name": "Light Blue"
+        },
+        {
+          "id": 25,
+          "textureId": 9,
+          "locale": "ru",
+          "name": "Голубой"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "imagePath": "/uploads/1766390587477-146406570.png",
+      "type": "standard",
+      "sortOrder": 0,
+      "createdAt": "2025-12-22T07:56:35.809Z",
+      "updatedAt": "2025-12-22T08:03:08.429Z",
+      "translations": [
+        {
+          "id": 30,
+          "textureId": 10,
+          "locale": "az",
+          "name": "Malaxit"
+        },
+        {
+          "id": 29,
+          "textureId": 10,
+          "locale": "en",
+          "name": "Malachite"
+        },
+        {
+          "id": 28,
+          "textureId": 10,
+          "locale": "ru",
+          "name": "Малахит"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "imagePath": "/uploads/1766390597209-362929604.png",
+      "type": "standard",
+      "sortOrder": 0,
+      "createdAt": "2025-12-22T07:56:35.818Z",
+      "updatedAt": "2025-12-22T08:03:18.160Z",
+      "translations": [
+        {
+          "id": 33,
+          "textureId": 11,
+          "locale": "az",
+          "name": "Firuzəyi"
+        },
+        {
+          "id": 32,
+          "textureId": 11,
+          "locale": "en",
+          "name": "Turquoise"
+        },
+        {
+          "id": 31,
+          "textureId": 11,
+          "locale": "ru",
+          "name": "Бирюзовый"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "imagePath": "/uploads/1766390602086-713684894.png",
+      "type": "standard",
+      "sortOrder": 0,
+      "createdAt": "2025-12-22T07:56:35.825Z",
+      "updatedAt": "2025-12-22T08:03:23.006Z",
+      "translations": [
+        {
+          "id": 36,
+          "textureId": 12,
+          "locale": "az",
+          "name": "Akvamarin"
+        },
+        {
+          "id": 35,
+          "textureId": 12,
+          "locale": "en",
+          "name": "Aquamarine"
+        },
+        {
+          "id": 34,
+          "textureId": 12,
+          "locale": "ru",
+          "name": "Аквамарин"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "imagePath": "/uploads/1766390610080-586982308.png",
+      "type": "standard",
+      "sortOrder": 0,
+      "createdAt": "2025-12-22T07:56:35.832Z",
+      "updatedAt": "2025-12-22T08:03:31.627Z",
+      "translations": [
+        {
+          "id": 39,
+          "textureId": 13,
+          "locale": "az",
+          "name": "Zeytun"
+        },
+        {
+          "id": 38,
+          "textureId": 13,
+          "locale": "en",
+          "name": "Olive"
+        },
+        {
+          "id": 37,
+          "textureId": 13,
+          "locale": "ru",
+          "name": "Оливковый"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "imagePath": "/uploads/1766390618941-531417091.png",
+      "type": "standard",
+      "sortOrder": 0,
+      "createdAt": "2025-12-22T07:56:35.843Z",
+      "updatedAt": "2025-12-22T08:03:40.042Z",
+      "translations": [
+        {
+          "id": 42,
+          "textureId": 14,
+          "locale": "az",
+          "name": "Nanə"
+        },
+        {
+          "id": 41,
+          "textureId": 14,
+          "locale": "en",
+          "name": "Mint"
+        },
+        {
+          "id": 40,
+          "textureId": 14,
+          "locale": "ru",
+          "name": "Мятный"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "imagePath": "/uploads/1766390661186-56611296.png",
+      "type": "standard",
+      "sortOrder": 0,
+      "createdAt": "2025-12-22T07:56:35.853Z",
+      "updatedAt": "2025-12-22T08:04:22.255Z",
+      "translations": [
+        {
+          "id": 45,
+          "textureId": 15,
+          "locale": "az",
+          "name": "Buğda"
+        },
+        {
+          "id": 44,
+          "textureId": 15,
+          "locale": "en",
+          "name": "Wheat"
+        },
+        {
+          "id": 43,
+          "textureId": 15,
+          "locale": "ru",
+          "name": "Пшеничный"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "imagePath": "/uploads/1766390633665-577043161.png",
+      "type": "standard",
+      "sortOrder": 0,
+      "createdAt": "2025-12-22T07:56:35.862Z",
+      "updatedAt": "2025-12-22T08:03:54.945Z",
+      "translations": [
+        {
+          "id": 48,
+          "textureId": 16,
+          "locale": "az",
+          "name": "Çəhrayı"
+        },
+        {
+          "id": 47,
+          "textureId": 16,
+          "locale": "en",
+          "name": "Pink"
+        },
+        {
+          "id": 46,
+          "textureId": 16,
+          "locale": "ru",
+          "name": "Розовый"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "imagePath": "/uploads/1766390644011-414832501.png",
+      "type": "standard",
+      "sortOrder": 0,
+      "createdAt": "2025-12-22T07:56:35.869Z",
+      "updatedAt": "2025-12-22T08:04:05.430Z",
+      "translations": [
+        {
+          "id": 51,
+          "textureId": 17,
+          "locale": "az",
+          "name": "Qum"
+        },
+        {
+          "id": 50,
+          "textureId": 17,
+          "locale": "en",
+          "name": "Sand"
+        },
+        {
+          "id": 49,
+          "textureId": 17,
+          "locale": "ru",
+          "name": "Песочный"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "imagePath": "/uploads/1766390668775-82255297.png",
+      "type": "standard",
+      "sortOrder": 0,
+      "createdAt": "2025-12-22T07:56:35.875Z",
+      "updatedAt": "2025-12-22T08:04:29.980Z",
+      "translations": [
+        {
+          "id": 54,
+          "textureId": 18,
+          "locale": "az",
+          "name": "Narıncı"
+        },
+        {
+          "id": 53,
+          "textureId": 18,
+          "locale": "en",
+          "name": "Orange"
+        },
+        {
+          "id": 52,
+          "textureId": 18,
+          "locale": "ru",
+          "name": "Оранжевый"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "imagePath": "/uploads/1766390674616-438632061.png",
+      "type": "standard",
+      "sortOrder": 0,
+      "createdAt": "2025-12-22T07:56:35.884Z",
+      "updatedAt": "2025-12-22T08:04:35.776Z",
+      "translations": [
+        {
+          "id": 57,
+          "textureId": 19,
+          "locale": "az",
+          "name": "Terrakota"
+        },
+        {
+          "id": 56,
+          "textureId": 19,
+          "locale": "en",
+          "name": "Terracotta"
+        },
+        {
+          "id": 55,
+          "textureId": 19,
+          "locale": "ru",
+          "name": "Терракот"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "imagePath": "/uploads/1766390681548-879302086.png",
+      "type": "standard",
+      "sortOrder": 0,
+      "createdAt": "2025-12-22T07:56:35.893Z",
+      "updatedAt": "2025-12-22T08:04:43.694Z",
+      "translations": [
+        {
+          "id": 60,
+          "textureId": 20,
+          "locale": "az",
+          "name": "Bürünc"
+        },
+        {
+          "id": 59,
+          "textureId": 20,
+          "locale": "en",
+          "name": "Bronze"
+        },
+        {
+          "id": 58,
+          "textureId": 20,
+          "locale": "ru",
+          "name": "Бронза"
+        }
+      ]
+    }
+  ],
+  "heroSlides": [
+    {
+      "id": 1,
+      "imagePath": "/uploads/1766394205654-226542407.png",
+      "sortOrder": 0,
+      "createdAt": "2025-12-22T09:03:52.944Z",
+      "updatedAt": "2025-12-22T09:29:31.601Z",
+      "translations": [
+        {
+          "id": 1,
+          "slideId": 1,
+          "locale": "az",
+          "title": "Memarlıq sənəti",
+          "subtitle": "Müasir şəhər həlləri"
+        },
+        {
+          "id": 2,
+          "slideId": 1,
+          "locale": "en",
+          "title": "Art of Architecture",
+          "subtitle": "Modern urban solutions"
+        },
+        {
+          "id": 3,
+          "slideId": 1,
+          "locale": "ru",
+          "title": "Искусство архитектуры",
+          "subtitle": "Современные городские решения"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "imagePath": "/uploads/1766395242469-211717863.png",
+      "sortOrder": 0,
+      "createdAt": "2025-12-22T09:20:50.788Z",
+      "updatedAt": "2025-12-22T09:29:36.441Z",
+      "translations": [
+        {
+          "id": 4,
+          "slideId": 2,
+          "locale": "az",
+          "title": "İnteryer estetikası",
+          "subtitle": "Eksklüziv 3D panellər"
+        },
+        {
+          "id": 5,
+          "slideId": 2,
+          "locale": "en",
+          "title": "Interior Aesthetics",
+          "subtitle": "Exclusive 3D panels"
+        },
+        {
+          "id": 6,
+          "slideId": 2,
+          "locale": "ru",
+          "title": "Эстетика интерьера",
+          "subtitle": "Эксклюзивные 3D-панели"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "imagePath": "/uploads/1766395721884-192639712.png",
+      "sortOrder": 0,
+      "createdAt": "2025-12-22T09:29:26.691Z",
+      "updatedAt": "2025-12-22T09:29:26.691Z",
+      "translations": [
+        {
+          "id": 16,
+          "slideId": 3,
+          "locale": "az",
+          "title": "Rahatlıq və stil",
+          "subtitle": "Dizayner ocaq yerləri"
+        },
+        {
+          "id": 17,
+          "slideId": 3,
+          "locale": "en",
+          "title": "Comfort & Style",
+          "subtitle": "Designer fire pits"
+        },
+        {
+          "id": 18,
+          "slideId": 3,
+          "locale": "ru",
+          "title": "Уют и стиль",
+          "subtitle": "Дизайнерские кострища"
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "createdAt": "2025-12-22T12:01:17.510Z",
+      "updatedAt": "2025-12-22T12:01:17.510Z",
+      "translations": [
+        {
+          "id": 1,
+          "projectId": 1,
+          "locale": "az",
+          "title": "Dəniz sahilində estetika",
+          "description": "Bakının ən prestijli layihəsi üçün art-betondan premium həllər"
+        },
+        {
+          "id": 2,
+          "projectId": 1,
+          "locale": "en",
+          "title": "Coastal Aesthetics",
+          "description": "Premium art-concrete solutions for Baku's most iconic destination"
+        },
+        {
+          "id": 3,
+          "projectId": 1,
+          "locale": "ru",
+          "title": "Эстетика на побережье",
+          "description": "Премиальные решения из арт-бетона для знакового проекта Баку"
+        }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "projectId": 1,
+          "imagePath": "/uploads/1766405280740-788199741.png",
+          "isMain": true,
+          "sortOrder": 0
+        },
+        {
+          "id": 2,
+          "projectId": 1,
+          "imagePath": "/uploads/1766405280742-658328744.png",
+          "isMain": false,
+          "sortOrder": 1
+        },
+        {
+          "id": 3,
+          "projectId": 1,
+          "imagePath": "/uploads/1766405280744-66152983.png",
+          "isMain": false,
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "createdAt": "2025-12-22T12:12:42.770Z",
+      "updatedAt": "2025-12-22T12:12:42.770Z",
+      "translations": [
+        {
+          "id": 7,
+          "projectId": 2,
+          "locale": "az",
+          "title": "Şəhər ritmində estetika",
+          "description": "ProTerra-dan beton dibçəklər və dekor Second Cup-ın isti atmosferində"
+        },
+        {
+          "id": 8,
+          "projectId": 2,
+          "locale": "en",
+          "title": "City Rhythm Aesthetics",
+          "description": "ProTerra concrete planters and decor in the warm atmosphere of Second Cup"
+        },
+        {
+          "id": 9,
+          "projectId": 2,
+          "locale": "ru",
+          "title": "Эстетика в ритме города",
+          "description": "Бетонные кашпо и декор ProTerra в уютной атмосфере Second Cup"
+        }
+      ],
+      "images": [
+        {
+          "id": 4,
+          "projectId": 2,
+          "imagePath": "/uploads/1766405671863-700808292.png",
+          "isMain": true,
+          "sortOrder": 0
+        },
+        {
+          "id": 5,
+          "projectId": 2,
+          "imagePath": "/uploads/1766405671866-373659967.png",
+          "isMain": false,
+          "sortOrder": 1
+        },
+        {
+          "id": 6,
+          "projectId": 2,
+          "imagePath": "/uploads/1766405671868-98076816.png",
+          "isMain": false,
+          "sortOrder": 2
+        }
+      ]
+    }
+  ]
+}

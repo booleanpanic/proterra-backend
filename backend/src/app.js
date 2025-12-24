@@ -44,9 +44,9 @@ app.use(express.static(path.join(__dirname, '../public'))); // Serve all static 
 app.use('/api', apiRoutes);
 app.use('/api/upload', uploadRoutes);
 
-// SPA Catch-all: Serve index.html for any unknown routes (must be AFTER API routes)
-app.get('*', (req, res) => {
-    res.sendFile(path.join(__dirname, '../public/index.html'));
+// API 404 Handler (No SPA fallback for hybrid deployment)
+app.use((req, res) => {
+    res.status(404).json({ error: 'Not Found' });
 });
 
 async function main() {
