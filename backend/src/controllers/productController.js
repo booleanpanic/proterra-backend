@@ -104,7 +104,7 @@ class ProductController {
 
             // Map images to correct full URLs
             const images = product.images.map(img =>
-                img.imagePath.startsWith('http') ? img.imagePath : `http://localhost:3000${img.imagePath}`
+                img.imagePath.startsWith('http') ? img.imagePath : `https://proterra-api.onrender.com${img.imagePath}`
             );
 
             const result = {
