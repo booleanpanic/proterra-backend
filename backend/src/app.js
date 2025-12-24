@@ -28,9 +28,8 @@ app.use('/api', limiter);
 
 // CORS Config
 const corsOptions = {
-    origin: process.env.NODE_ENV === 'production'
-        ? false // Disable CORS in production monolith (same origin) or set specific domain
-        : '*',  // Allow all in dev
+    origin: '*', // Allow all origins for Hybrid deployment (Yer.az -> Render)
+    credentials: true
 };
 app.use(cors(corsOptions));
 app.use(express.json());
