@@ -39,7 +39,10 @@ const apiRoutes = require('./routes/api');
 const path = require('path');
 const uploadRoutes = require('./routes/upload');
 
-app.use('/uploads', express.static(path.join(__dirname, '../public/uploads')));
+app.use('/uploads', (req, res, next) => {
+    res.setHeader('Cross-Origin-Resource-Policy', 'cross-origin');
+    next();
+}, express.static(path.join(__dirname, '../public/uploads')));
 app.use(express.static(path.join(__dirname, '../public'))); // Serve all static files from public
 app.use('/api', apiRoutes);
 app.use('/api/upload', uploadRoutes);
